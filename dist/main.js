@@ -1,0 +1,1 @@
+function hello(){console.log("hello world - 1 ")}function hello2(){console.log("hello world - 1 ")}function hello(){console.log("hello world - 2 ")}function hello(){console.log("test world - 1 ")}
